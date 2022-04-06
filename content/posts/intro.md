@@ -130,5 +130,5 @@ Lourens, de Rightmove, también reconoce este cambio. Dice que el éxito de la i
 
 «Las cosas se mueven tan rápido ahora que en el momento en que evalúas a alguien en un lenguaje, éste ya ha cambiado: hay una nueva versión. Creo que, con el tiempo, el éxito de la ingeniería de software se basará cada vez más en la mentalidad de alguien, y luego en las habilidades técnicas específicas que tenga», dice.
 
-«Creo que eso también debería abrir el sector. Durante mucho tiempo, el éxito en la industria tecnológica ha tenido que ver con la exposición que has tenido y con los sistemas que has construido en qué lenguaje, lo cual cierra inmediatamente las oportunidades para la gente. Así que, desde el punto de vista de la diversidad, creo que el cambio de mentalidad es también un potencial facilitador».
+ «Creo que eso también debería abrir el sector. Durante mucho tiempo, el éxito en la industria tecnológica ha tenido que ver con la exposición que has tenido y con los sistemas que has construido en qué lenguaje, lo cual cierra inmediatamente las oportunidades para la gente. Así que, desde el punto de vista de la diversidad, creo que el cambio de mentalidad es también un potencial facilitador».
 
