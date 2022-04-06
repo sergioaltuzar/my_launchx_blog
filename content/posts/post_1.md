@@ -1,0 +1,38 @@
+---
+title: "Mi ruta de aprendizaje en Launch X"
+date: 2022-04-06
+description: 'Te voy a contar mi travesia por Launch x'
+---
+
+Mis inicios:
+Me encontraba un Domingo en mi casa navegando por Twitter cuando me apareció en mi feed una publicación en donde se explicaba el proceso de admisión y
+en que consistia Launch X. Yo acababa de terminar mi situacion laboral con el gobierno de mi ciudad con los cuales dure 10 años de trabajo, y estaba muy
+ilusionado en trabajar en una empresa de tecnología, yo me titule como Licenciado en informática y nunca pude ejercer mi profesión profesionalmete,
+además mis conocimientos de programación se habían esfumado por falta de practica, por lo que estaba decidido en esos momentos en tomar cursos para
+actualizarme y volver a adquirir todos los conocimientos necesarios para lograr mi sueño, asi que esa publicación llego como anillo al dedo para mi.
+Muy ilusionado comencé con el proceso de admisión y afortunadamente para mi me enviaron toda la información para formar parte de Launch x, muy emocionado
+leí toda la información, comenzó a seguir las redes sociales y compartí esa emoción con mi familia, aunque ellos nunca saben de lo que hablo por que desconocen
+de lo que es la programación, ellos vieron mi alegría y me motivaron a echarle muchas ganas. 
+---
+Primeros pasos:
+Despues de a ver recibido toda la informacion nos invitaron a la inahuguracion del programa Launch X, todo esto en una sesion en vivo en donde presentaron 
+el programa de estudios y a los M.C, yo estaba super emocionado con toda la explicacion y la motivacion que nos dieron. Tambien nos presentaron los horarios 
+y dias que serian las sesiones en vivo. Nos explicaron acerca del Onboarding y que comenzariamos con JAVA, yo no sabia nada de llava por lo que desde que
+termino el LIVE comence a estudiar por que estaba super emocionado.
+---
+Onboarding 
+En nuestro primer LIVE dentro del onboarding la M.C Fernanda nos dio la bienvenida, se presento formalmente y nos explico como seria la metodología y el plan de 
+estudio del onboarding. Así que puse manos a la obra a leer todo lo que publico en el GitHub del onboarding y día con día fui aprendiendo muchas cosas
+sobre JAVA, la mentoria de la M.C Fernanda fue fundamental para echarle todas las ganas del mundo y poder entregar rodas las katas y todo los ejercicios
+que íbamos realizando. El Onboarding me sirvió para darme cuenta de que soy capaz de muchas cosas y de que echándole todo el esfuerzo puedo lograr lo
+que me proponga.
+---
+Front End
+Para la misión Front End yo ya iba con todo, súper motivado por que logre terminar con esfuerzo y dedicación la misión onboarding. En el primer live de 
+Front End el M.C Rodrigo, comenzó con mucha motivación y con mucha actitud y eso de mi parte me lo contagio enormemente, no me perdí ni uno de sus Lives
+me encanto la forma en que transmitió sus conocimientos o como semana a semana avanzábamos en cada uno de los proyectos de una manera muy ágil y nada 
+forzada ni pesado, fueron unas semanas llenas de mucho conocimiento, alegría y esa forma tan agradable de motivarnos y hacernos participar del M.C va 
+hacer inolvidable, por eso cuando nos despedimos fue algo triste, mas que nada por la culminación pero llena de mucha alegría por seguir avanzado.
+
+
+---
