@@ -2,7 +2,7 @@
 title: 'About me'
 menu:
   main:
-    name: "Sergio Altuzar"
+    name: "About Me"
 ---
 
 ## Who am I
