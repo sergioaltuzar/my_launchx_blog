@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Sergio Altuzar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sergioaltuzar.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sergioaltuzar.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git &amp; Git Hub</title>
+      <link>https://sergioaltuzar.github.io/my_launchx_blog/posts/gitgithub/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioaltuzar.github.io/my_launchx_blog/posts/gitgithub/</guid>
+      <description>Git y GitHub sirven para proveer un control de versiones de un código, unificarlo e inclusive compartirlo, pero estas son todas las similaridades de las dos plataformas, según señala el portal Simple Learn. De hecho, señala que, si buscáramos una analogía, Git sería un computador, mientras que Github representaría una red de computadores que están llevando a cabo una misma tarea, pero con diferentes métodos.
+¿Qué es Git?
+Git es un sistema de control de versiones distribuido (DVCS) de software de código abierto y gratuito diseñado para administrar todo el historial del código fuente.</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje en Launch X</title>
       <link>https://sergioaltuzar.github.io/my_launchx_blog/posts/post_1/</link>
